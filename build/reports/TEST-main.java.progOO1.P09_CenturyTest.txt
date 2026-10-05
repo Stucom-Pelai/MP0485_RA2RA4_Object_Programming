@@ -1,0 +1,4 @@
+Testsuite: main.java.progOO1.P09_CenturyTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,202 sec
+
+Testcase: testIs21thCentury took 0,019 sec

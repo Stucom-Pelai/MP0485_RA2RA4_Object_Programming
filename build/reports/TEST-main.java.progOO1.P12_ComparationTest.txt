@@ -1,0 +1,9 @@
+Testsuite: main.java.progOO1.P12_ComparationTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,218 sec
+
+Testcase: testCompareDifferentNumbers_minus5and5 took 0,009 sec
+Testcase: testCompareEqualNumbers_minus5andminus5 took 0,001 sec
+Testcase: testCompareEqualNumbers_0and0 took 0,001 sec
+Testcase: testCompareEqualNumbers_4and4 took 0 sec
+Testcase: testCompareDifferentNumbers_0and1 took 0,002 sec
+Testcase: testCompareDifferentNumbers_4and3 took 0,001 sec

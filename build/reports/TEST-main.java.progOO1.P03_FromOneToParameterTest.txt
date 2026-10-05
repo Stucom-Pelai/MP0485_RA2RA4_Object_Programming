@@ -1,0 +1,24 @@
+Testsuite: main.java.progOO1.P03_FromOneToParameterTest
+Tests run: 3, Failures: 0, Errors: 3, Skipped: 0, Time elapsed: 0,194 sec
+
+Testcase: testPrintUntilNumber0 took 0,022 sec
+	Caused an ERROR
+'void main.java.progOO1.P03_FromOneToParameter.printUntilNumber(int)'
+java.lang.NoSuchMethodError: 'void main.java.progOO1.P03_FromOneToParameter.printUntilNumber(int)'
+	at main.java.progOO1.P03_FromOneToParameterTest.testPrintUntilNumber0(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+Testcase: testPrintUntilNumber2 took 0,001 sec
+	Caused an ERROR
+'void main.java.progOO1.P03_FromOneToParameter.printUntilNumber(int)'
+java.lang.NoSuchMethodError: 'void main.java.progOO1.P03_FromOneToParameter.printUntilNumber(int)'
+	at main.java.progOO1.P03_FromOneToParameterTest.testPrintUntilNumber2(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+
+Testcase: testPrintUntilNumber5 took 0,002 sec
+	Caused an ERROR
+'void main.java.progOO1.P03_FromOneToParameter.printUntilNumber(int)'
+java.lang.NoSuchMethodError: 'void main.java.progOO1.P03_FromOneToParameter.printUntilNumber(int)'
+	at main.java.progOO1.P03_FromOneToParameterTest.testPrintUntilNumber5(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+

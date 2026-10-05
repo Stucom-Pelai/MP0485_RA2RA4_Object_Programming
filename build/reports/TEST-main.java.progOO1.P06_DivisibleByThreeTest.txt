@@ -1,0 +1,7 @@
+Testsuite: main.java.progOO1.P06_DivisibleByThreeTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,203 sec
+
+Testcase: testNoDivisibleValues took 0,017 sec
+Testcase: testRangeTwoToTen took 0,001 sec
+Testcase: testRangeThreeToThree took 0 sec
+Testcase: testRangeOneToThree took 0 sec

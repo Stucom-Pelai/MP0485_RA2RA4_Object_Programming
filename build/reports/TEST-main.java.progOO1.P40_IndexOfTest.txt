@@ -1,0 +1,8 @@
+Testsuite: main.java.progOO1.P40_IndexOfTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,241 sec
+
+Testcase: testNumberFoundAtStartAndEnd took 0,026 sec
+Testcase: testNumberNotFound took 0,002 sec
+Testcase: testEmptyList took 0,002 sec
+Testcase: testNumberFoundMultipleTimes took 0,001 sec
+Testcase: testNumberFoundOnce took 0,001 sec

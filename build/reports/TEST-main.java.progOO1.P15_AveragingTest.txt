@@ -1,0 +1,11 @@
+Testsuite: main.java.progOO1.P15_AveragingTest
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,283 sec
+
+Testcase: testAverageZeros took 0,018 sec
+Testcase: testAverageSameNumbers took 0 sec
+Testcase: testSumZeros took 0,004 sec
+Testcase: testAveragePositiveNumbers took 0 sec
+Testcase: testAverageNegativeNumbers took 0,001 sec
+Testcase: testSumPositiveNumbers took 0,001 sec
+Testcase: testSumNegativeNumbers took 0,001 sec
+Testcase: testSumSameNumbers took 0 sec

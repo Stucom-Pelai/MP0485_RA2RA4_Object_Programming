@@ -1,0 +1,7 @@
+Testsuite: main.java.progOO1.P17_StarSignTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,222 sec
+
+Testcase: testPrintStarsFive took 0,009 sec
+Testcase: testPrintStarsNine took 0,001 sec
+Testcase: testPrintStarsZero took 0 sec
+Testcase: testPrintStarsOne took 0,001 sec

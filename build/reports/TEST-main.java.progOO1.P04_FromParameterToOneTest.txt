@@ -1,0 +1,7 @@
+Testsuite: main.java.progOO1.P04_FromParameterToOneTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,204 sec
+
+Testcase: testPrintFrom0 took 0,01 sec
+Testcase: testPrintFrom1 took 0 sec
+Testcase: testPrintFrom3To1 took 0,004 sec
+Testcase: testPrintFrom5To1 took 0,006 sec

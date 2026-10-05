@@ -1,0 +1,7 @@
+Testsuite: main.java.progOO1.P05_DivisionTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,225 sec
+
+Testcase: testDivisionFiveByTwo took 0,013 sec
+Testcase: testDivisionZeroByAnyNumber took 0,001 sec
+Testcase: testDivisionTwoByOne took 0 sec
+Testcase: testDivisionThreeByFive took 0,001 sec

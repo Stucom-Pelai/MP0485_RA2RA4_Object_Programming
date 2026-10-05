@@ -1,0 +1,21 @@
+Testsuite: main.java.progOO1.P02_ReprintTest
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0,265 sec
+
+Testcase: testPrintThreeTimes took 0,041 sec
+	FAILED
+null
+junit.framework.AssertionFailedError
+	at main.java.progOO1.P02_ReprintTest.testPrintThreeTimes(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+
+Testcase: testPrintOnce took 0,004 sec
+	FAILED
+null
+junit.framework.AssertionFailedError
+	at main.java.progOO1.P02_ReprintTest.testPrintOnce(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+

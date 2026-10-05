@@ -1,0 +1,7 @@
+Testsuite: main.java.progOO2.p03.DogTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,177 sec
+
+Testcase: testPrivateIntAge took 0,013 sec
+Testcase: testHasExactlyThreeInstanceVariables took 0 sec
+Testcase: testPrivateStringName took 0 sec
+Testcase: testPrivateStringBreed took 0 sec

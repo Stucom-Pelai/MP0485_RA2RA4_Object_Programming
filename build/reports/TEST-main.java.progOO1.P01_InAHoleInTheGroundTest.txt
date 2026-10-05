@@ -1,0 +1,10 @@
+Testsuite: main.java.progOO1.P01_InAHoleInTheGroundTest
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0,243 sec
+
+Testcase: testPrintText took 0,019 sec
+	FAILED
+The printed output should match the expected text. expected:<[In a hole in the ground there lived a method]> but was:<[]>
+junit.framework.AssertionFailedError: The printed output should match the expected text. expected:<[In a hole in the ground there lived a method]> but was:<[]>
+	at main.java.progOO1.P01_InAHoleInTheGroundTest.testPrintText(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+

@@ -1,0 +1,7 @@
+Testsuite: main.java.progOO2.p06.DoorTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,178 sec
+
+Testcase: testKnockMethodExistsAndIsPublic took 0,008 sec
+Testcase: testClassIsPublic took 0 sec
+Testcase: testKnockPrintsCorrectMessage took 0,002 sec
+Testcase: testConstructorExistsAndIsPublicAndHasNoParams took 0,002 sec

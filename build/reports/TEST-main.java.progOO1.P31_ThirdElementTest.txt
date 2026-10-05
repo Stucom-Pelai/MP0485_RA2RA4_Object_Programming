@@ -1,0 +1,5 @@
+Testsuite: main.java.progOO1.P31_ThirdElementTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,229 sec
+
+Testcase: testThirdElementOutput took 0,021 sec
+Testcase: testWithLessThanThreeElements took 0,001 sec

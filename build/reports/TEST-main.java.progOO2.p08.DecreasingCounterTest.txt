@@ -1,0 +1,7 @@
+Testsuite: main.java.progOO2.p08.DecreasingCounterTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,169 sec
+
+Testcase: testReset took 0,01 sec
+Testcase: testConstructorInitialValue took 0,001 sec
+Testcase: testDecrement took 0,001 sec
+Testcase: testDecrementStopsAtZero took 0,001 sec

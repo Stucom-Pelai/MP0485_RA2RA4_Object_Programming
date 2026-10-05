@@ -1,0 +1,23 @@
+Testsuite: main.java.progOO1.P50_PokedexTest
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,267 sec
+------------- Standard Output ---------------
+Pokedex information erased!
+------------- ---------------- ---------------
+
+Testcase: testGetPokemonAtInvalidPosition took 0,009 sec
+Testcase: testAddPokemonAtValidPosition took 0,005 sec
+Testcase: testDeletePokemonFound took 0,002 sec
+Testcase: testHackPokedex took 0,007 sec
+Testcase: testAddPokemonWhenFull took 0,004 sec
+Testcase: testAddPokemonAtInvalidPosition took 0,001 sec
+Testcase: testFindPokemonNotFound took 0,001 sec
+Testcase: testAddPokemonSuccess took 0,002 sec
+Testcase: testFindPokemonFound took 0,001 sec
+Testcase: testErasePokedexInfo took 0,001 sec
+Testcase: testShowAllPokemon took 0,004 sec
+Testcase: testDeletePokemonAtValidPosition took 0,001 sec
+Testcase: testAddPokemonDuplicate took 0,001 sec
+Testcase: testDeletePokemonNotFound took 0,001 sec
+Testcase: testGetPokemonAtValidPosition took 0,002 sec
+Testcase: testDeletePokemonAtInvalidPosition took 0,001 sec
+Testcase: testCountPokemon took 0,001 sec

@@ -1,0 +1,7 @@
+Testsuite: main.java.progOO1.P18_StarShapeTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,278 sec
+
+Testcase: testPrintSquare took 0,012 sec
+Testcase: testPrintTriangle took 0,001 sec
+Testcase: testPrintStars took 0,001 sec
+Testcase: testPrintRectangle took 0,002 sec

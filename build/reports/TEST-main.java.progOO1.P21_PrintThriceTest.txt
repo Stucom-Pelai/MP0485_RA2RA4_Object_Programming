@@ -1,0 +1,5 @@
+Testsuite: main.java.progOO1.P21_PrintThriceTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,269 sec
+
+Testcase: testPrintThrice took 0,034 sec
+Testcase: testEmptyString took 0,002 sec

@@ -1,0 +1,15 @@
+Testsuite: main.java.progOO1.P48_DigitalClockTest
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,287 sec
+
+Testcase: testInitializeClockSize took 0,018 sec
+Testcase: testIncrementMinuteFrom1238 took 0 sec
+Testcase: testIncrementMinuteFrom1259 took 0,001 sec
+Testcase: testIncrementMinuteFrom2359 took 0,001 sec
+Testcase: testIncrementHourFrom12 took 0,002 sec
+Testcase: testIncrementHourFrom23 took 0 sec
+Testcase: testDecrementHourFrom00 took 0,001 sec
+Testcase: testDecrementHourFrom15 took 0,003 sec
+Testcase: testInitializeClockValues took 0,003 sec
+Testcase: testDecrementMinuteFrom0000 took 0,001 sec
+Testcase: testDecrementMinuteFrom1238 took 0,001 sec
+Testcase: testDecrementMinuteFrom1500 took 0,001 sec

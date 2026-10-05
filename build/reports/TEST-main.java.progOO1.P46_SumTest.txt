@@ -1,0 +1,7 @@
+Testsuite: main.java.progOO1.P46_SumTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,218 sec
+
+Testcase: testSumWithPositiveAndNegativeNumbers took 0,011 sec
+Testcase: testSumWithSingleElement took 0 sec
+Testcase: testSumWithAllZeros took 0,001 sec
+Testcase: testSumWithEmptyList took 0 sec

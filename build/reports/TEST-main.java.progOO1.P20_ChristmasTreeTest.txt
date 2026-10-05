@@ -1,0 +1,5 @@
+Testsuite: main.java.progOO1.P20_ChristmasTreeTest
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0,332 sec
+
+Testcase: testTreeHeight1 took 0,011 sec
+Testcase: testTreeHeight4 took 0,002 sec
